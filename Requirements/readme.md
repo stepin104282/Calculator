@@ -20,3 +20,8 @@ How?
 
 The memory chips inside the calculator contain thousands or millions of bytes program code that allows the calculator to do work.
 
+
+| Operator      | Calculation | Comment                                                                                                                                                                                                 |
+|---------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  Mod Division | 9%4 = 1     | Upon the application of the mod division, we get the remainder of the division. It happens in the following way: 4*2 + 1 = 9 That is the number 4 can be placed two times, and we have 1 in the excess. |
+

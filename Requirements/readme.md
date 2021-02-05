@@ -20,6 +20,7 @@ How?
 
 The memory chips inside the calculator contain thousands or millions of bytes program code that allows the calculator to do work.
 
+Low Level Requirements for Modulo Division Function:
 
 | Operator      | Calculation | Comment                                                                                                                                                                                                 |
 |---------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

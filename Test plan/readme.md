@@ -6,4 +6,3 @@
 | Conversion from Kilometer’s to meter’s | User Input   | 12      | 12000         |
 | Conversion from inch to Centimeters    | User Input   | 12      | 30.48         |
 | Conversion from Hectares to Acres      | User Input   | 12      | 29.6526       |
-29.6526
